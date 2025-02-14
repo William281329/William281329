@@ -47,3 +47,5 @@
 </p>
 
 🔥 **"Transformando energia em código!"** ⚡💻  
+
+![Minhoca](https://media.tenor.com/HLQz3udUmuYAAAAi/worm-dance.gif)
