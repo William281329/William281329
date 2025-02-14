@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o William!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+William!;🚀+Desenvolvedor+em+formação!;📚+Estudante+de+ADS+na+FATEC">
+</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FATEC</strong> <br>
