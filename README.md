@@ -48,4 +48,6 @@
 
 🔥 **"Transformando energia em código!"** ⚡💻  
 
-![Minhoca](https://media.tenor.com/HLQz3udUmuYAAAAi/worm-dance.gif)
+
+![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+
