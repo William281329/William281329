@@ -49,5 +49,6 @@
 🔥 **"Transformando energia em código!"** ⚡💻  
 
 
-![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/William281329/William281329/blob/output/github-contribution-grid-snake.svg)
+
 
