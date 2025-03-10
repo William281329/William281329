@@ -47,8 +47,3 @@
 </p>
 
 🔥 **"Transformando energia em código!"** ⚡💻  
-
-
-![snake gif](https://github.com/William281329/William281329/blob/output/github-contribution-grid-snake.svg)
-
-
